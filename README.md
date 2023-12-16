@@ -52,17 +52,21 @@ RTL realization
 
 ### Output:
 ### RTL
-####Half Adder Circuit:
+### Half Adder Circuit:
+
 ![Screenshot 2023-12-16 165612](https://github.com/tharunkumaran2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151625188/9853c94a-2312-4919-9533-e354764ba0d2)
 
-####Full Adder Circuit:
+### Full Adder Circuit:
+
 ![Screenshot 2023-12-16 170836](https://github.com/tharunkumaran2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151625188/7ed749ce-bae4-45cb-9cdb-b66a2b718260)
 
 ### TIMING DIAGRAM
-####Half Adder Circuit:-
+### Half Adder Circuit:-
+
 ![Screenshot 2023-12-16 170010](https://github.com/tharunkumaran2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151625188/cc396d2f-d686-47f4-85f7-4b3c8d28cb3e)
 
-####Full Adder Circuit:-
+### Full Adder Circuit:-
+
 ![Screenshot 2023-12-16 171729](https://github.com/tharunkumaran2006/Exp-02-Implementation-of-Half-Adder-and-Full-Adder-circuit/assets/151625188/2c41957e-15cb-44b2-845c-437725cf643b)
 
 
